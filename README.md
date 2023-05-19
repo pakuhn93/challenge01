@@ -5,17 +5,17 @@
 ## Description
 
 I modified the code of a mock website to fall in-line with the listed specifications:
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+- GIVEN a webpage meets accessibility standards
+- WHEN I view the source code
+- THEN I find semantic HTML elements
+- WHEN I view the structure of the HTML elements
+- THEN I find that the elements follow a logical structure independent of styling and positioning
+- WHEN I view the icon and image elements
+- THEN I find accessible alt attributes
+- WHEN I view the heading attributes
+- THEN they fall in sequential order
+- WHEN I view the title element
+- THEN I find a concise, descriptive title
 
 In order to accomplish these goals, I needed to ensure that the website meets accessibility standards by fixing broken links
 and refactoring code. The code should now be updated to fit common code practice.
